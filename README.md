@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amoghn21
 - 👀 I’m interested in c,cpp,dsa
-- 🌱 I’m currently learning c and dsa
+- 🌱 I’m currently working on cpp and dsa
 - 💞️ I’m looking to collaborate on ds related works
 - 📫 How to reach me ...
 
